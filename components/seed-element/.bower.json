@@ -1,0 +1,36 @@
+{
+  "name": "seed-element",
+  "authors": [
+    "Anonymous <anonymous@example.com>"
+  ],
+  "description": "Element providing solution to no problem in particular.",
+  "keywords": [
+    "web-component",
+    "web-components",
+    "polymer",
+    "seed"
+  ],
+  "main": "seed-element.html",
+  "license": "MIT",
+  "homepage": "https://github.com/<USERNAME>/seed-element/",
+  "ignore": [
+    "/.*",
+    "/tests/"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^0.5.2"
+  },
+  "devDependencies": {
+    "web-component-tester": "Polymer/web-component-tester#^2.0.5"
+  },
+  "_release": "6f4e926e01",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "6f4e926e01486a5428cbd96040b85977aa566df7"
+  },
+  "_source": "git://github.com/bennisan/first-element.git",
+  "_target": "master",
+  "_originalSource": "bennisan/first-element",
+  "_direct": true
+}

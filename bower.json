@@ -1,0 +1,7 @@
+{
+  "name": "first-element#gh-pages",
+  "private": true,
+  "dependencies": {
+    "seed-element": "bennisan/first-element#master"
+  }
+}
